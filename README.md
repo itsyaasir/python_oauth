@@ -1,8 +1,14 @@
-###Python OAuth
+### Python OAuth
 
 You can use this small webapp to see how Authentication works in Flask Python. 
 
-To run this app first install the requirements :
+To run this app first :
+
+Create a virtual environment 
+```sh
+$ python -m venv .venv
+```
+and the install the requirements by running 
 
 ```sh
 $ pip install -r requirements.txt 
